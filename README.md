@@ -44,7 +44,7 @@ The Autonomous Agricultural Rover is designed to assist farmers by automating es
 
 
 ### Available Models:
-- **Rover Chassis:** `/3d_models/rover.stl`
+- **Rover Chassis:** `Rover_model1.fbx`
 ## Getting Started
 
 ### Prerequisites
