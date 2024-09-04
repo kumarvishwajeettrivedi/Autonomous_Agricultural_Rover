@@ -1,7 +1,3 @@
-Here's a sample README file for your Autonomous Agricultural Rover project on GitHub:
-
----
-
 # Autonomous Agricultural Rover
 
 
