@@ -35,11 +35,11 @@ The Autonomous Agricultural Rover is designed to assist farmers by automating es
 - **Sustainable Power Supply:** The rover uses solar panels for a sustainable power supply, supplemented by rechargeable batteries.
 
 ## Technologies and Tools
-- **Microcontroller/Processor:** Arduino or Raspberry Pi
+- **Microcontroller/Processor:** Arduino and Raspberry Pi
 - **Sensors:** Soil moisture sensor, pH sensor, temperature sensor, ultrasonic sensors, camera module, GPS module
 - **Actuators:** Motor drivers, servo motors for steering, pesticide sprayer
 - **Programming Languages:** Python, C/C++
-- **Machine Learning:** TensorFlow or OpenCV for image processing and weed detection
+- **Machine Learning:** TensorFlow for image processing and weed detection
 
 
 
